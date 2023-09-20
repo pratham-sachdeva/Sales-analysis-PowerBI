@@ -3,6 +3,8 @@
 ## Overview
 This repository contains the code and resources for a data analysis project that involves importing and analyzing a database of chocolate sales data using SQL and creating interactive reports in Power BI. The project aims to provide valuable insights into chocolate sales trends and key performance indicators (KPIs) using Parameters for dynamic reporting capabilities.
 
+![image](https://github.com/pratham-sachdeva/Sales-analysis-PowerBI/assets/47927147/8d675529-0515-4c90-b77d-38c5a91ae023)
+
 ## Project Highlights
 Data Source: The project starts with importing a database in SQL, which includes over 7000 rows of data with attributes such as location, salesperson, product, category, and sales information.
 SQL Analysis: The data in the DB was already clean, as the importance in this project was to create a dynamic report in PowerBI and not the eda in SQL.
